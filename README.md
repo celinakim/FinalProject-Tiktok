@@ -5,4 +5,4 @@
 Contributors: Ahmad Bhatti: mab558, Celina Kim: ak786, Rachel Kwon: jk2353, Sneha Sharma: ss3257
 
 #### NOTE:
-- notebook for data filteration is placed inside 'rawdata' folder
+- notebook for data filtration is placed inside 'rawdata' folder
